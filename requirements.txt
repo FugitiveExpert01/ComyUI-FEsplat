@@ -1,0 +1,6 @@
+# ComfyUI-SfM-COLMAP requirements
+# COLMAP binary must be installed separately — see README
+
+numpy>=1.24
+Pillow>=10.0
+opencv-python-headless>=4.9
